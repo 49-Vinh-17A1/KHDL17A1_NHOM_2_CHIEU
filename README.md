@@ -6,10 +6,10 @@ git clone https://github.com/49-Vinh-17A1/XSTK-Group2.git
 
 II. Thực hiện tạo nhánh cho cá nhân
 
-git checkout -b lớp_tên_msv
+git checkout -b tên_msv
 
 sau khi tạo nhánh cá nhân thì làm bài của mình
 
 sau đó :
 
-git push origin lớp_tên_msv
+git push origin tên_msv
